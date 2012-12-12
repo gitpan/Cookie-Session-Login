@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Cookie-Session-Login.t
+lib/Cookie/Session/Login.pm
